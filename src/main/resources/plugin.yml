@@ -1,0 +1,4 @@
+name: antielytratarget
+version: '${project.version}'
+main: com.top1.antielytratarget.Main
+api-version: '1.19'
