@@ -1,0 +1,4 @@
+name: antielytratarget
+version: '1.0-SNAPSHOT'
+main: com.top1.antielytratarget.Main
+api-version: '1.19'

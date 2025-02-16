@@ -1,4 +1,6 @@
 name: antielytratarget
-version: '${project.version}'
+version: 1
 main: com.top1.antielytratarget.Main
-api-version: '1.19'
+api-version: 1.13
+author: mimitokox_
+description: Plugin na anti elytra target
